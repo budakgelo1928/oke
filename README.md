@@ -14,3 +14,6 @@ $pip2 install mechanize
 
 $git clone https://github.com/budakgelo1928/oke/edit/master/README.md
 
+Cd isal
+
+ls
